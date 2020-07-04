@@ -274,5 +274,6 @@ int main(){
             bzero(buffer, sizeof(buffer));
       
     }
-    
+    printf("[+] Close Conection to Server.\n");
+
 }
