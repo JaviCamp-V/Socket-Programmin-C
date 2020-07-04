@@ -276,4 +276,5 @@ int main(){
     }
     printf("[+] Close Conection to Server.\n");
 
+     close(sock)
 }
